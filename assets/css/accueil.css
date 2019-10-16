@@ -1,32 +1,14 @@
-body{
-  margin: 0%;
-}
-
-figure {
-    margin: 0;
-}
-
 h1 {
   text-align: center;
   text-decoration: underline;
 }
 
+
+
 h2 {
   text-align: left;
   text-decoration: underline;
   margin-left: 3%;
-}
-
-a {
-  text-decoration: underline;
-}
-
-#nav-marge{
-  margin-left: 5%;
-}
-
-#nav-marge2{
-  margin-left: 0.5%
 }
 
 #nav
@@ -42,7 +24,9 @@ a {
    padding: 0%;
 }
 
-#nav li
-{
-   display:inline-block;
+footer{
+  font-family: 'Modak';
+  text-align: center;
+  font-size: 140%;
+  background-color: #e3f2fd;
 }
