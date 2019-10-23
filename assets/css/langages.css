@@ -19,6 +19,10 @@ h1{
   margin-left: 0.5%
 }
 
+p{
+  margin-left: 5%:
+}
+
 #nav
 {
   background: rgb(216,224,222); /* Old browsers */
@@ -35,4 +39,10 @@ h1{
 #nav li
 {
    display:inline-block;
+}
+footer{
+  font-family: 'Modak';
+  text-align: center;
+  font-size: 160%;
+  background-color: #e3f2fd;
 }

@@ -36,3 +36,10 @@ h1 {
 {
    display:inline-block;
 }
+
+footer{
+  font-family: 'Modak';
+  text-align: center;
+  font-size: 160%;
+  background-color: #e3f2fd;
+}
