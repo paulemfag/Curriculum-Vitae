@@ -108,10 +108,15 @@ h2 {
   font-size: 2.3rem;
 }
 
+embed{
+  margin-right: 2%;
+  float: right;
+}
+
 footer{
   height: auto;
-  font-family: 'Modak';
   text-align: center;
   font-size: 160%;
+  font-family: 'Modak';
   background-color: #e3f2fd;
 }
