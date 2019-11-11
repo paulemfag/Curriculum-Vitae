@@ -82,8 +82,11 @@ h1 {
   margin-left : 7vw;
 }
 
-#paragraphe-lang{
-
+#texte{
+  float: left;
+  display: block;
+  margin-left : 7vw;
+  margin-top: 23px;
 }
 
 .paragraphe-marge{
