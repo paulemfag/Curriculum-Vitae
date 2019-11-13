@@ -37,7 +37,7 @@ overflow: hidden!important;
 }
 
 body{
-  overflow: hidden;
+  overflow-y: hidden;
 }
 
 #nav-accueil{
