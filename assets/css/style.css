@@ -70,6 +70,8 @@ h1 {
   text-decoration: underline;
 }
 
+/* page d'accueil */
+
 #coordonnées{
   float: left;
   display: block;
@@ -77,6 +79,12 @@ h1 {
 }
 
 #langues{
+  float: left;
+  display: block;
+  margin-left : 7vw;
+}
+
+#qualités-défauts{
   float: left;
   display: block;
   margin-left : 7vw;
@@ -114,6 +122,10 @@ h2 {
 embed{
   margin-right: 2%;
   float: right;
+}
+
+#git_logo{
+  opacity: 0.5;
 }
 
 footer{
